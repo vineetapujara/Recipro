@@ -7,7 +7,7 @@ import * as model from "./model";
 import recipeView from "./views/recipeView";
 import searchView from "./views/searchView";
 import resultsView from "./views/resultsView";
-import PaginationView from "./views/PaginationView";
+import PaginationView from "./views/paginationView";
 import bookmarksView from "./views/bookmarksView";
 import addRecipeView from "./views/addRecipeView";
 import { MODAL_CLOSE_SEC } from "./config";
