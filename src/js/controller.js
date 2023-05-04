@@ -26,9 +26,6 @@ const recipeContainer = document.querySelector(".recipe");
 //   });
 // };
 
-// https://forkify-api.herokuapp.com/v2
-//////////////////////////////////////////
-
 const controlRecipes = async function () {
   try {
     const id = window.location.hash.slice(1);
